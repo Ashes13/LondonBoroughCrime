@@ -1,5 +1,3 @@
-# London Borough Crime
-Predicting crime rates of london Borougs from historical time seiries data impact of using Suppoprt Vector Machines and help wiht data exploration
 
 ## Crime Dataset Exploration
 ### Project definition
