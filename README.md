@@ -14,8 +14,11 @@ The data preparation for each model were mostly similar and used a transposed ve
 There were not many assumptions as the data already had much clarity and was ideal for the objectives, we set ourselves. The models were largely based off factual investigation than general statements.
 
 ### Data dictionary
-#### Field	              Description
-Borough	            Name of the borough in London
-Major Category	    Type of crime divided in major classes such as Burglary, Drugs, Robbery
-Minor Category	    Specific type of crime which split from major category
-20xxxx	            Year and month of the recorded. The first two digits describe the year and the last two digits describe the month. For example, ‘201804’ means the record was create in April 2018.
+ Field	                  Description
+Borough	                  Name of the borough in London
+
+Major Category	          Type of crime divided in major classes such as Burglary, Drugs, Robbery
+
+Minor Category	          Specific type of crime which split from major category
+
+20xxxx	                  Year and month of the recorded. The first two digits describe the year and the last two digits describe the month. For example, ‘201804’ means the record was create in April 2018.
